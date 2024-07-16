@@ -27,6 +27,8 @@ export default function Admin() {
           ))}
         </ul>
       </nav>
+      <>TEST</>
+      <>This</>
       <Outlet />
     </div>
   );
